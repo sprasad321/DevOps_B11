@@ -1,2 +1,1 @@
-# DevOps_B11_
-Updated main Readme
+This is a shared README file with content from both branches.
